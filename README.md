@@ -11,3 +11,9 @@ Some features of the first prototype:
 - data on how many members choose a particular member
 - unique identifier mapped to SSN, CPF or local ID number
 
+Some future possibilites:
+- Data analysis
+- Dashboard
+- Affinity percentage
+
+
