@@ -1,6 +1,8 @@
 # soundMate
-![screen print](https://github.com/fismerio/soundMate/blob/master/docs/soundMate-logo-sm.jpg)
 Our goal is to improve dating by promoting transparency, honesty and adding voice capabilities.
+
+![screen print](https://github.com/fismerio/soundMate/blob/master/docs/soundMate-logo-sm.jpg)
+
 
 ![screen print](https://github.com/fismerio/soundMate/blob/master/docs/soundmate.png)
 
