@@ -1,12 +1,13 @@
 # soundMate
+
 Our goal is to improve dating by promoting transparency, honesty and adding voice capabilities.
 
-![screen print](https://github.com/fismerio/soundMate/blob/master/docs/soundMate-logo-sm.jpg)
-
+![screen print](https://github.com/fismerio/soundMate/blob/master/docs/soundMate-red.jpg)
 
 ![screen print](https://github.com/fismerio/soundMate/blob/master/docs/soundmate.png)
 
 Some features of the first prototype:
+
 - user-defined nicknames
 - ability to search all members of the database
 - query / sort on any field
@@ -15,8 +16,7 @@ Some features of the first prototype:
 - unique identifier mapped to SSN, CPF or local ID number
 
 Some future possibilites:
+
 - Data analysis
 - Dashboard
 - Affinity percentage
-
-
