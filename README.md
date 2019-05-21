@@ -1,5 +1,7 @@
 # soundMate
 
+Veja nossa página: https://www.facebook.com/soundMateBR/
+
 Our goal is to improve dating by promoting transparency, honesty and adding voice capabilities.
 
 ![screen print](https://github.com/fismerio/soundMate/blob/master/docs/soundMate-red.jpg)
