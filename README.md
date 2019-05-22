@@ -22,3 +22,8 @@ Some future possibilites:
 - Data analysis
 - Dashboard
 - Affinity percentage
+
+For inspiration, watch the video: 
+Downloaded - Official Napster Documentary Trailer [HD]
+Shawn Fanning 
+https://youtu.be/6Ai6K2VIEXM
